@@ -4077,7 +4077,7 @@ input, select, textarea {
 			}
 
 	body.is-ie #menu {
-		background: rgba(42, 47, 74, 0.975);
+		background: #A5302A;
 	}
 
 	body.is-menu-visible #wrapper {
